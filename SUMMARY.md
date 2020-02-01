@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Gitboook Home](README.md)
+* [Architecture](architecture/README.md)
+  * [Microservices](architecture/microservices.md)
 
